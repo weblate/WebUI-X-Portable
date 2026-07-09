@@ -22,7 +22,7 @@
     <string name="settings_webui_remote_url_alert_desc">
 سيستخدم WebUI X العنوان الذي تقدمه باستمرار لجميع الوحدات ويتجاوز جميع أخطاء SSL. لاحظ أن هذه الميزة تتطلب خادم ويب محليًا بتوقيع ذاتي، وهي مخصصة لأغراض التصحيح فقط، وليست مخصصة للاستخدام اليومي، وتُستخدم على مسؤوليتك الخاصة.
 </string>
-    <string name="invalid_ip">هذا ليس نطاقًا محليًا صالحًا!</string>
+    <string name="invalid_ip">هذا ليس نطاقآ محليا صالحآ!</string>
     <string name="settings_security_inject_eruda">حقن Eruda</string>
     <string name="non_root_note">
 للوصول إلى جميع ميزات WebUI X، يُطلب وجود جهاز Android بصلاحيات الروت. لا يوفر WebUI X تعليمات للروت ولا يتحمل أي مسؤولية عن أي ضرر قد يحدث أثناء عملية الروت أو نتيجة لاستخدام WebUI X نفسه.
@@ -46,7 +46,7 @@
     <string name="menu_sort_option_updated">وقت التحديث</string>
     <string name="menu_descending">تنازلي</string>
     <string name="menu_pin_enabled">تثبيت مفعل</string>
-    <string name="menu_pin_action">إجراء التثبيت</string>
+    <string name="menu_pin_action">تثبيت الأجراء</string>
     <string name="menu_pin_webui">تثبيت WebUI</string>
     <string name="menu_show_updated">عرض وقت التحديث</string>
     <string name="menu_show_antifeatures">عرض الخصائص السلبية</string>
@@ -60,4 +60,5 @@
     <string name="settings_webui_engine_ksu">WebUI لـ KSU</string>
     <string name="settings_webui_engine_prefer_module">مُحدد من إعدادات الوحدة</string>
     <string name="menu_sort_option_size">الحجم</string>
+    <string name="settings_date_pattern">نمط التاريخ</string>
 </resources>
