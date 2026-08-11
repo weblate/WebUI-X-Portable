@@ -27,15 +27,15 @@
     <string name="non_root_note">
 للوصول إلى جميع ميزات WebUI X، يُطلب وجود جهاز Android بصلاحيات الروت. لا يوفر WebUI X تعليمات للروت ولا يتحمل أي مسؤولية عن أي ضرر قد يحدث أثناء عملية الروت أو نتيجة لاستخدام WebUI X نفسه.
 </string>
-    <string name="select">اختيار</string>
-    <string name="continue_with">المتابعة باستخدام %1$s</string>
+    <string name="select">تحديد</string>
+    <string name="continue_with">المتابعة مع %1$s</string>
     <string name="select_your_platform">اختر المنصة الخاصة بك</string>
-    <string name="welcome">مرحبًا!</string>
+    <string name="welcome">اهلآ وسهلا؟</string>
     <string name="magisk">Magisk</string>
     <string name="kernelsu">KernelSU</string>
     <string name="kernelsu_next">KernelSU Next</string>
     <string name="apatch">APatch</string>
-    <string name="platform">المنصة</string>
+    <string name="platform">منصة</string>
     <string name="mh_seems_like_root_isn_t_authorized">هممم... يبدو أن صلاحيات الروت غير مفعّلة</string>
     <string name="modules_empty">لا توجد وحدات</string>
     <string name="search_empty">القائمة فارغة</string>
@@ -55,10 +55,16 @@
     <string name="remove_shortcut">إزالة الاختصار</string>
     <string name="non_root">بدون روت</string>
     <string name="settings_webui_engine">محرك WebUI</string>
-    <string name="settings_webui_engine_desc">اختر المحرك المفضل لديك</string>
+    <string name="settings_webui_engine_desc">حدد المحرك المفضل لديك</string>
     <string name="settings_webui_engine_wx">WebUI X</string>
-    <string name="settings_webui_engine_ksu">WebUI لـ KSU</string>
-    <string name="settings_webui_engine_prefer_module">مُحدد من إعدادات الوحدة</string>
+    <string name="settings_webui_engine_ksu">WebUI الخاص بKSU</string>
+    <string name="settings_webui_engine_prefer_module">مُحدد بواسطة ملف الوحدة</string>
     <string name="menu_sort_option_size">الحجم</string>
     <string name="settings_date_pattern">نمط التاريخ</string>
+    <string name="settings_date_pattern_dialog_desc">سيتم تحليل نمط التاريخ على النحو التالي:\n[color=primary]%1$s[/color]</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="latest_commit_id">معرف اخر تعديل</string>
+    <string name="build_tools_version">أصدار أدوات البناء</string>
+    <string name="compile_sdk">تجميع SDK</string>
 </resources>
