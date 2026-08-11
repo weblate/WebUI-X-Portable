@@ -26,4 +26,16 @@
     <string name="cancel">Annuler</string>
     <string name="title_or_icon_not_found">Titre ou icône introuvable</string>
     <string name="says">%1$s dit</string>
+    <string name="check_your_internet_connection">Vérifiez votre connexion Internet</string>
+    <string name="failed_to_load">Échec du chargement</string>
+    <string name="failed_to_load_desc">Impossible de charger [b]%1$s[/b]\nErreur : [i]%2$s[/i]</string>
+    <string name="failed_to_open_ssl">Ouverture impossible en raison du SSL</string>
+    <string name="failed_to_open_ssl_desc">Impossible de charger [b]%1$s[/b] en raison d\'une erreur SSL</string>
+    <string name="more_info">Plus d\'informations</string>
+    <string name="please_try_the_following">Veuillez essayer ce qui suit :</string>
+    <string name="proceed">Continuer</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="refreshing_the_page">Rafraîchissement de la page</string>
+    <string name="renderer_crashed">Le processus de rendu WebView ne répond pas. Voulez-vous le terminer ?</string>
+    <string name="restarting_the_webui_x">Redémarrage de WebUI X</string>
 </resources>

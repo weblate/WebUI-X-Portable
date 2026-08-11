@@ -37,4 +37,5 @@
     <string name="failed_to_open_ssl_desc">[b]%1$s[/b] konnte aufgrund eines SSL-Fehlers nicht geladen werden</string>
     <string name="please_try_the_following">Bitte versuchen Sie Folgendes:</string>
     <string name="proceed">Fortfahren</string>
+    <string name="exit">Beenden</string>
 </resources>

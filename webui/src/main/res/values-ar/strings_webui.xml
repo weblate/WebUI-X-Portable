@@ -35,4 +35,7 @@
     <string name="more_info">المزيد من المعلومات</string>
     <string name="failed_to_load_desc">لايمكن تحميل [b]%1$s[/b]\nخطأ: [i]%2$s[/i]</string>
     <string name="please_try_the_following">الرجاء حاول بما يلي</string>
+    <string name="failed_to_open_ssl_desc">لا يمكن تحميل [b]%1$s[/b] بسبب خطأ SSL</string>
+    <string name="proceed">متابعة</string>
+    <string name="shortcut_icon_decode_error">فشل في فك ترميز أيقونة الاختصار.</string>
 </resources>
