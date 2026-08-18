@@ -1,3 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="requireNewVersion_cannot_load_webui">Не вдалося завантажити WebUI X</string>
+    <string name="requireNewVersion_require_text">потребує щонайменше %1$s &gt;=</string>
+    <string name="requireNewVersion_try_the_following">Спробуйте наступне:</string>
+    <string name="requireNewVersion_try_the_following_one">Оновіть %1$s до найновішої версії з Google Play або GitHub Releases.</string>
+    <string name="requireNewVersion_try_the_following_two">Зверніться до розробника модуля за можливим рішенням.</string>
+    <string name="requireNewVersion_refresh">Оновити</string>
+    <string name="confirm">Підтвердити</string>
+    <string name="cancel">Скасувати</string>
+    <string name="says">%1$s каже</string>
+    <string name="title_or_icon_not_found">Заголовок або значок не знайдено</string>
+    <string name="icon_not_found">Значок не знайдено</string>
+    <string name="exit">Вийти</string>
+    <string name="exit_desc">Ви впевнені, що хочете вийти з цього WebUI?</string>
+    <string name="loading">Завантаження…</string>
+    <string name="unknown_error">Невідома помилка</string>
+    <string name="missing_mod_id">Відсутній ID модуля</string>
+    <string name="class_not_found">Не вдалося знайти визначений клас активності</string>
+    <string name="shortcut_already_exists">Ярлик уже існує.</string>
+    <string name="shortcut_creation_requirements_not_met">Не вдалося додати ярлик: відсутній заголовок або файл значка.</string>
+    <string name="shortcut_icon_not_found">Не вдалося додати ярлик: файл значка не знайдено.</string>
+    <string name="shortcut_icon_loading_error">Помилка завантаження значка ярлика.</string>
+    <string name="shortcut_icon_decode_error">Не вдалося декодувати значок ярлика.</string>
+    <string name="pin_shortcut_not_supported">Закріплення ярликів не підтримується на цьому пристрої/лаунчері.</string>
+    <string name="shortcut_add_request_failed">Не вдалося надіслати запит на ярлик до лаунчера.</string>
+    <string name="shortcut_removed_successfully">Ярлик успішно видалено/вимкнено.</string>
+    <string name="shortcut_removed_message">Цей ярлик більше недоступний.</string>
+    <string name="failed_to_load">Не вдалося завантажити</string>
+    <string name="check_your_internet_connection">Перевірте підключення до інтернету</string>
+    <string name="refreshing_the_page">Оновлення сторінки</string>
+    <string name="restarting_the_webui_x">Перезапуск WebUI X</string>
+    <string name="renderer_crashed">Процес рендерингу WebView не відповідає. Бажаєте завершити його?</string>
+    <string name="failed_to_open_ssl">Не вдалося відкрити через SSL</string>
+    <string name="refresh">Оновити</string>
+    <string name="more_info">Докладніше</string>
+    <string name="failed_to_load_desc">Не вдалося завантажити [b]%1$s[/b]\nПомилка: [i]%2$s[/i]</string>
+    <string name="failed_to_open_ssl_desc">Не вдалося завантажити [b]%1$s[/b] через помилку SSL</string>
+    <string name="please_try_the_following">Будь ласка, спробуйте наступне:</string>
+    <string name="proceed">Продовжити</string>
 </resources>

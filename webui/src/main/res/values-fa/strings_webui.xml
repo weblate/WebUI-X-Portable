@@ -21,4 +21,21 @@
     <string name="shortcut_creation_requirements_not_met">نمیتوان میانبر ایجاد کرد : عدم دسترسی به آیکون یا عنوان مورد نظر.</string>
     <string name="shortcut_icon_not_found">نمیتوان میانبر ایجاد کرد : عدم دسترسی به آیکون.</string>
     <string name="shortcut_icon_loading_error">ارور در حین بارگذاری آیکون میانبر.</string>
+    <string name="check_your_internet_connection">اتصال اینترنت خود را بررسی کنید</string>
+    <string name="failed_to_load">بارگذاری ناموفق بود</string>
+    <string name="failed_to_load_desc">نمی‌توان [b]%1$s[/b] را بارگذاری کرد\nخطا: [i]%2$s[/i]</string>
+    <string name="failed_to_open_ssl">به دلیل SSL نمی‌توان باز کرد</string>
+    <string name="failed_to_open_ssl_desc">به دلیل خطای SSL نمی‌توان [b]%1$s[/b] را بارگذاری کرد</string>
+    <string name="more_info">اطلاعات بیشتر</string>
+    <string name="pin_shortcut_not_supported">سنجاق کردن میانبرها در این دستگاه/لانچر پشتیبانی نمی‌شود.</string>
+    <string name="please_try_the_following">لطفاً موارد زیر را امتحان کنید:</string>
+    <string name="proceed">ادامه</string>
+    <string name="refresh">تازه‌سازی</string>
+    <string name="refreshing_the_page">در حال تازه‌سازی صفحه</string>
+    <string name="renderer_crashed">فرایند رندر WebView پاسخ نمی‌دهد. آیا می‌خواهید آن را متوقف کنید؟</string>
+    <string name="restarting_the_webui_x">در حال راه‌اندازی مجدد WebUI X</string>
+    <string name="shortcut_add_request_failed">ارسال درخواست میانبر به لانچر ناموفق بود.</string>
+    <string name="shortcut_icon_decode_error">رمزگشایی آیکون میانبر ناموفق بود.</string>
+    <string name="shortcut_removed_message">این میانبر دیگر در دسترس نیست.</string>
+    <string name="shortcut_removed_successfully">میانبر با موفقیت حذف/غیرفعال شد.</string>
 </resources>
